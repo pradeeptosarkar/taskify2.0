@@ -1,4 +1,4 @@
 export const siteConfig = {
-  name: "SyncLab",
+  name: "Taskify",
   description: "Collaborate, manage projects, and reach new productivity peaks",
 };

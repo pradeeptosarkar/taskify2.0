@@ -16,7 +16,7 @@ export const Navbar = () => {
           </Button>
           <Button size="sm" asChild>
             <Link href="/sign-up">
-              Get SyncLab for free
+              Get Taskify for free
             </Link>
           </Button>
         </div>
